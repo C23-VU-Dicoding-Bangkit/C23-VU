@@ -1,0 +1,17 @@
+{
+  "totalExamTime": "[INT] minutes [INT] second",
+  "isSameOnRegistrationStartExam": true,
+  "isSameOnRegistrationEndExam": true,
+  "isSameOnStartExamEndExam": true,
+  "userCheckInterval": {
+    "minute_0": true,
+    "minute_1": true,
+    "minute_2": true,
+    "minute_3": true,
+    "minute_4": true,
+    "minute_5": true
+    },
+"outOfFrameCount": 0,
+"percentageNotFocused": 0.1,
+"percentageDetectedTwoFaces": 0
+}
