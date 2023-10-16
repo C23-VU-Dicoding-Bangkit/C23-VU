@@ -5,22 +5,22 @@
 CC - Luswis Arya Gunawan
 
 - https://www.linkedin.com/in/luswisarya/
-- https://github.com/luswisarya
+- https://github.com/luswisarya/
 
 CC - Ramadhan
 
 - https://www.linkedin.com/in/ramadhan31/
-- https://github.com/devramcc
+- https://github.com/devramcc/
 
 ML - Muhamad Dwirizqy Wimbassa
 
-- https://www.linkedin.com/in/thenameisk
-- https://github.com/TheNameIsK
+- https://www.linkedin.com/in/thenameisk/
+- https://github.com/TheNameIsK/
 
 ML - Abdullah Farauk
 
 - https://www.linkedin.com/in/abdullahfarauk/
-- https://github.com/stardenbart
+- https://github.com/stardenbart/
 
 ## Reference
 
