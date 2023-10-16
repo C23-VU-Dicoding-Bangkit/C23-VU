@@ -1,5 +1,9 @@
 # C23-VU
 
+## Logic FlowChart
+
+![logic_flowchart](./logic_flowchart.jpg "Logic FlowChart")
+
 ## Our Members
 
 CC - Luswis Arya Gunawan
